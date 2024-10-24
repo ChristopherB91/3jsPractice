@@ -1,4 +1,4 @@
-Practice using 3js
+# Practice using 3js
 
 Most information has come from the 3js docs links to the can be found in the file or down below.
 Just the basics seperated into 4 parts
